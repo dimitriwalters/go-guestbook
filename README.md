@@ -1,4 +1,4 @@
-# go-myapp
+# go-guestbook
 
-A hello world application in Go.
+An application to manage guestbooks, written in Go.
 
